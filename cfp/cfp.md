@@ -39,10 +39,10 @@ Innovative, efficient, and explainable AI/ML techniques are needed to extract va
 * Geospatial RAG and Agentic AI applications
 
 *** Important Dates ***
-Sep 08, 2025: Paper submission
-Sep 19, 2025: Acceptance notification
-Sep 25, 2025: Camera-ready deadline and copyright form
-Nov 12, 2025: Workshop date
+Aug 06, 2026: Paper submission
+Sep 18, 2026: Acceptance notification
+Oct 05, 2026: Camera-ready deadline
+Nov 12, 2026: Workshop date
 
 *** Paper Submissions ***
 This is an open call-for-papers. We invite both full papers (max 8 pages) describing mature work and short papers (max 4-5 pages) describing work-in-progress or case studies. Only original and high-quality papers formatted using the IEEE 2-column format (Latex Template: https://www.ieee.org/conferences/publishing/templates.html), including the bibliography and any possible appendices will be considered for reviewing.
